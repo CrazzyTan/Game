@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Reset
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Reset
   - 
   - 
   - 
@@ -44,15 +45,9 @@ TagManager:
   - name: Background
     uniqueID: 3705976647
     locked: 0
-  - name: Rocket
-    uniqueID: 2846671393
-    locked: 0
-  - name: Laser
-    uniqueID: 1098307397
-    locked: 0
-  - name: Rain
-    uniqueID: 3129619291
-    locked: 0
   - name: Forground
     uniqueID: 3980427339
+    locked: 0
+  - name: Interacable
+    uniqueID: 3851276419
     locked: 0
