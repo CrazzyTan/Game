@@ -47,9 +47,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scipt\Weapon.cs" />
      <Compile Include="Assets\Scipt\cameraFollowsCharacter.cs" />
      <Compile Include="Assets\Scipt\rocketController.cs" />
      <Compile Include="Assets\Scipt\GameManager.cs" />
+     <Compile Include="Assets\Scipt\Laser.cs" />
      <Compile Include="Assets\Scipt\UIManager.cs" />
      <Compile Include="Assets\Scipt\BackgroundElement.cs" />
  <Reference Include="UnityEngine">
