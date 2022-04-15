@@ -53,3 +53,6 @@ TagManager:
   - name: Interacable
     uniqueID: 3851276419
     locked: 0
+  - name: UI Images
+    uniqueID: 483243183
+    locked: 0
